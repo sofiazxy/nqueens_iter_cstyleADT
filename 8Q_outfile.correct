@@ -1,0 +1,10 @@
+Welcome to the N-Queens Solver!
+Enter the size of the board (N): 
+Q . . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . Q . . . . 
